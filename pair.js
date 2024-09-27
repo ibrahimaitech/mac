@@ -62,15 +62,7 @@ router.get('/', async (req, res) => {
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*Follow this wachannel for bot updates*
-_https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
-
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*For more info tap on the link below*
-_https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO_
-
-_𝑴𝒂𝒅𝒆 𝑩𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔_`
+`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
 
